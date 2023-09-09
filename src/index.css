@@ -88,3 +88,9 @@ li:not(:last-child) {
   padding-bottom: 1rem;
   border-bottom: 3px solid black;
 }
+
+.deleteButton{
+  color: red;
+  padding: 10px;
+  margin-bottom: 10px;
+}
